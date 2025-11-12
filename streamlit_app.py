@@ -6,8 +6,8 @@ import time
 from environment import Environment
 from utils import save_df_csv, summarize_metrics
 
-st.set_page_config(page_title="RASID-SH Final", layout="wide")
-st.title("RASID-SH — Final Prototype (Python + Streamlit)")
+st.set_page_config(page_title="Multi-Agent Collaboration Final", layout="wide")
+st.title("Multi Agent Collaboration for Robot Systems in a Commercial Environment — Final Prototype (Python + Streamlit)")
 st.markdown("Improved modular implementation: distance-based comms, Bayesian reputation, live updates.")
 
 # Sidebar controls
